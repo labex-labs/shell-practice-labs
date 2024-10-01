@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                          | Difficulty   | Practice                                                                                                                  |
-|---------|-----------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                         | Difficulty   | Practice                                                                                                                  |
+|---------|----------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Download Files from the Internet           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-download-files-from-the-internet-387333'>Start Lab</a>          |
 |      02 | 📖 Discover Linux System Information          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-discover-linux-system-information-36'>Start Lab</a>             |
 |      03 | 📖 Linux cd Command: Directory Changing       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-linux-cd-command-directory-changing-209733'>Start Lab</a>       |
