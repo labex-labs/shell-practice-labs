@@ -1,5 +1,9 @@
 # Shell Practice Labs
 
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
+
 [![Shell Practice Labs](https://cover-creator.appbot.io/shell-practice-labs.png)](https://labex.io/courses/shell-practice-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/shell-practice-labs)
